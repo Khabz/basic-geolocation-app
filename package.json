@@ -1,0 +1,16 @@
+{
+  "name": "geolocation-backend",
+  "version": "1.0.0",
+  "description": "A geolocation node/express rest api for identifying the location of a device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "geolocation"
+  ],
+  "author": "khabubundivhu@gmail.com",
+  "license": "ISC"
+}
